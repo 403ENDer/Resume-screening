@@ -1,26 +1,26 @@
-# Drug Name Prediction with CNN
+# Resume Screening with NLP in Streamlit
 ## Overview
-This project utilizes Convolutional Neural Networks (CNN) to predict drug names from images of drug boxes. The model offers interactive drug suggestions based on image analysis.
+This project leverages Natural Language Processing (NLP) techniques to enhance the resume screening process. Implemented in Streamlit, it provides a user-friendly interface for resume evaluation and role recommendations.
 
 ## Features
-### CNN Implementation:
-Trained a CNN model to extract features from drug box images.
-Achieved accurate drug name predictions through image analysis.
+**NLP Resume Scoring:**
+Utilizes NLP algorithms for intelligent resume scoring.
+Enhances recruitment efficiency with automated candidate evaluation.
 
-### Dynamic Drug Suggestions:
-Enhances user experience with real-time drug suggestions.
-Employs CNN predictions for personalized and interactive recommendations.
+**Dynamic Role Suggestions:**
+Recommends roles based on individual resume content.
+Optimizes candidate-job matching for more effective hiring processes.
+
+**Interactive Video Recommendations:**
+Integrates NLP-driven video suggestions for continuous skill development.
+Enhances the user experience with personalized learning resources.
 
 ## Requirements
 Python 3.x
-TensorFlow or PyTorch (choose based on your preference)
-Additional dependencies listed in requirements.txt
+Streamlit
+NLP libraries (NLTK, spaCy, etc.)
 
 ## Acknowledgments
-The model architecture is inspired by [cite the relevant paper or source].
-Thanks to the open-source community for providing essential tools and frameworks.
-Contributing
-We welcome contributions! Please follow our Contribution Guidelines.
+Thanks to the open-source community for contributing to the development of NLP tools and libraries.
 
-
-Feel free to reach out with any questions or feedback. Happy coding!
+Feel free to reach out with any questions or feedback. Happy screening!
